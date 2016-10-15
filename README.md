@@ -1,5 +1,5 @@
 # sinatra-activerecord-example
-An example and start point for Sinatra + ActiveRecord. Really lean but full functional!
+An example and start point for Sinatra + ActiveRecord. Really lean yet full functional!
 
 ```
 .
