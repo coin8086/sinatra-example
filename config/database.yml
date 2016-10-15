@@ -1,0 +1,12 @@
+development:
+  adapter: postgresql
+  pool: 3
+  encoding: utf8
+  database: sinatra-sample-dev
+
+test:
+  adapter: postgresql
+  pool: 3
+  encoding: utf8
+  database: sinatra-sample-test
+
