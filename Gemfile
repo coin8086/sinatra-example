@@ -17,3 +17,10 @@ group :test do
   gem 'minitest'
   gem 'rack-test'
 end
+
+group :deployment do
+  gem 'capistrano', '~> 3.3.0'
+  gem 'capistrano-bundler', '~> 1.1.2'
+  gem 'capistrano-rvm'
+end
+
