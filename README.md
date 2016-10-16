@@ -1,3 +1,5 @@
+[Sinatra + ActiveRecord = Really Lean Startup?](http://huiming.io/2016/10/15/sinatra-example.html)
+
 # Sinatra Example
 An example and start point for Sinatra with ActiveRecord and Capistrano. Production ready! Really lean yet full functional! You can start your application on it quickly!
 
