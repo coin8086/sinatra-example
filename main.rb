@@ -1,5 +1,6 @@
 require_relative 'init'
 require 'sinatra/base'
+require 'sinatra/content_for' # For "yield_content" in ERB
 
 class Main < Sinatra::Application
 
@@ -15,7 +16,7 @@ class Main < Sinatra::Application
   end
 
   get '/' do
-    "hello"
+    erb :index
   end
 
 end
